@@ -1,7 +1,7 @@
 # profile-views
 ### Hola, I'm Adivya 👋 
-<p align="right"> <h3>Profile Views :-</h3> <img src=""
-    alt="adivya-jain" /> 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=tanvi1110&label=Profile%20views&color=0e75b6&style=flat"
+    alt="tanvi-1110" /> 
   </p>
 
 ## I'm an Enthusiastic Person always curious of how things work !!
@@ -27,7 +27,7 @@
 <br />
 
 <br />
-<img src=""/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adivya-jain&theme=tokyonight"/>
 
 <img src ="https://github-readme-stats.vercel.app/api?username=adivya-jain&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
