@@ -1,7 +1,7 @@
 # profile-views
 ### Hola, I'm Adivya 👋 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=tanvi1110&label=Profile%20views&color=0e75b6&style=flat"
-    alt="tanvi-1110" /> 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adivya-jain&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adivya-jain" /> 
   </p>
 
 ## I'm an Enthusiastic Person always curious of how things work !!
