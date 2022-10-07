@@ -14,7 +14,7 @@
 ### Connect with me:
 
 <a href="https://twitter.com/AdivyaJ"><img align="left" alt="Twitter" width="22px" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg"></a>
-<a href="https://www.instagram.com/tanvi_1304/"><img align="left" alt="Instagram" width="22px" src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg"></a>
+<a href="https://www.instagram.com/adivya._.jain/"><img align="left" alt="Instagram" width="22px" src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg"></a>
 <a href="https://www.linkedin.com/in/adivya-jain-b98468226"><img align="left" alt="Linkedln" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
 
 <br />
